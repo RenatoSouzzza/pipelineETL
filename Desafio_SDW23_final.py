@@ -18,7 +18,7 @@ name = data['Name'].tolist()
 age = data['Age'].tolist()
 city = data['City'].tolist()
 
-chave_openAI = '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'
+chave_openAI = 'chave_openAI' # Necessário openAI API Key
 
 import openai
 
